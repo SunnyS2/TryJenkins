@@ -1,0 +1,1 @@
+D:\R_D\TryJenkins\TryJenkins\bin\Debug\TryJenkins.exe.config
