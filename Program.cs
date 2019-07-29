@@ -10,7 +10,7 @@ namespace TryJenkins
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("i am going to build on jenkins!!!");
+            Console.WriteLine("i am going to build on jenkins!!");
         }
     }
 }
